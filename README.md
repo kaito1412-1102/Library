@@ -1,6 +1,10 @@
 # Library
 
-Glide:
+Circle ImageView: https://github.com/hdodenhof/CircleImageView
+
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+
+Glide: https://github.com/bumptech/glide
 
     implementation 'com.github.bumptech.glide:glide:4.12.0'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'
@@ -8,6 +12,11 @@ Glide:
 RecyclerView:
 
     implementation 'androidx.recyclerview:recyclerview:1.2.0'
+    
+otpView - pinView: https://github.com/mukeshsolanki/android-otpview-pinview
+
+    implementation 'com.github.mukeshsolanki:android-otpview-pinview:2.1.2'
+
     
 Retrofit:
 
