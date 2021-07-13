@@ -17,7 +17,10 @@ otpView - pinView: https://github.com/mukeshsolanki/android-otpview-pinview
 
     implementation 'com.github.mukeshsolanki:android-otpview-pinview:2.1.2'
 
-    
+Reaction view:  https://github.com/pgreze/android-reactions
+
+        implementation "com.github.pgreze:android-reactions:1.6"
+
 Retrofit:
 
     implementation 'com.squareup.retrofit2:retrofit:2.9.0'
