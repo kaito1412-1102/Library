@@ -20,6 +20,14 @@ otpView - pinView: https://github.com/mukeshsolanki/android-otpview-pinview
 Reaction view:  https://github.com/pgreze/android-reactions
 
         implementation "com.github.pgreze:android-reactions:1.6"
+        
+Circular status view:   https://github.com/3llomi/CircularStatusView
+
+    implementation 'com.github.3llomi:CircularStatusView:V1.0.2'
+
+Story View:  https://github.com/OMARIHAMZA/StoryView
+
+    implementation 'com.github.3llomi:CircularStatusView:V1.0.2'
 
 Retrofit:
 
