@@ -1,5 +1,9 @@
 # Library
 
+Design (CardView) :
+
+    implementation 'com.android.support:design:27.0.2'
+
 Circle ImageView: https://github.com/hdodenhof/CircleImageView
 
     implementation 'de.hdodenhof:circleimageview:3.1.0'
