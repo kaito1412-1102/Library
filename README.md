@@ -60,7 +60,7 @@ ViewModel - LiveData:
 
     implementation 'android.arch.lifecycle:extensions:2.3.1'
 
-Gson:
+Gson: https://github.com/google/gson
 
     implementation 'com.google.code.gson:gson:2.8.7'
 
