@@ -61,7 +61,8 @@ ViewModel - LiveData:
     implementation 'android.arch.lifecycle:extensions:2.3.1'
 
 Gson: https://github.com/google/gson
-
+RSS to Json:    https://rss2json.com/
+Json to class:  https://json2csharp.com/json-to-pojo
     implementation 'com.google.code.gson:gson:2.8.7'
 
     
