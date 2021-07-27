@@ -56,13 +56,14 @@ RxJava-RxAndroid:
     //RxAndroid
     implementation 'io.reactivex.rxjava3:rxandroid:3.0.0'
     
-ViewModel - LiveData:
+ViewModel - LiveData: https://viblo.asia/p/android-livedata-oOVlY1Yrl8W
 
     implementation 'android.arch.lifecycle:extensions:2.3.1'
 
 Gson: https://github.com/google/gson
 RSS to Json:    https://rss2json.com/
 Json to class:  https://json2csharp.com/json-to-pojo
+
     implementation 'com.google.code.gson:gson:2.8.7'
 
     
