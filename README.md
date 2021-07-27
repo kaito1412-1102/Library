@@ -66,5 +66,9 @@ Json to class:  https://json2csharp.com/json-to-pojo
 
     implementation 'com.google.code.gson:gson:2.8.7'
 
+Okhttp: https://github.com/square/okhttp
+
+    implementation 'com.squareup.okhttp3:okhttp:4.9.1'
+
     
     
